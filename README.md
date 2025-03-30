@@ -1,3 +1,3 @@
 # conflict-exercise1
 practico2
-esta es ua linea
+esta es una linea
